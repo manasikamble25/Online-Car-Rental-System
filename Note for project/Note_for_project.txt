@@ -1,0 +1,16 @@
+1. Use Xampp/Wampp to execute project
+	Start Apache and MySql on Xampp
+
+2. Create database name as carrental and Import the database in mysql of Xampp
+
+3. Go to crome and type
+	localhost/carrental/index.php
+
+4.
+For admin login
+UserName: admin
+Password: Test@12345
+
+For User Login
+Email: Test@gmail.com
+Password: Test@123
